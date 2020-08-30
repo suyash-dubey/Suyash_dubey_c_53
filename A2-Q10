@@ -1,5 +1,5 @@
 #Write a program to print Pascal triangle
-print("Pascal Triangle ")
+print("PASCAL TRIANGLE ")
 
 
 def printPascal(n):
@@ -11,5 +11,5 @@ def printPascal(n):
         print(" ");
 
 
-n = int(input("Enter the Number : "))
+n = int(input("ENTER NUMBER : "))
 printPascal(n)
