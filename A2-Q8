@@ -16,5 +16,5 @@ for num in range(lower ,upper+1):
                 break
         else:
             print((num,d.get(num)))
-print(f"Count of Non prime numbers are : {c}")
-print(f"New dictionary is : {d}")
+print(f"COUNT OF NON PRIMES : {c}")
+print(f"NEW DICTIONARY : {d}")
