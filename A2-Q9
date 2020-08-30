@@ -1,6 +1,6 @@
-#Write a program to print N fibonacci numbers where N is being passed from command line and you
+#Write  a program to print N fibonacci numbers where N is being passed from command line and you
 #can run python program using command - python fibo.py 20, where N=20
-print("Fibonacci numbers using command line ")
+print("FIBONACCI NUMBERS USING COMMAND LINE ")
 import sys
 def fib(n):
     a,b=0,1
